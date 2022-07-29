@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+        image:
+            'https://gdb.currenttime.tv/01ef0000-0aff-0242-89d2-08da0036454d_w1080_h608.jpg'
+    },
+    {
+        image:
+            'https://www.m24.ru/b/d/nBkSUhL2hFYgmM20Lr6BvMKnxdDs95C-miTNnuWR9mOBdDebBizCnTY8qdJf6ReJ58vU9meMMok3Ee2nhSR6ISeO9G1N_wjJ=AK4-UnJmmiemoQp0p5QQxA.jpg'
+    },
+    {
+        image:
+            'https://uatv.ua/wp-content/uploads/2022/05/rossijskie-voennye.jpeg'
+    },
+    {
+        image:
+            'https://s16.stc.yc.kpcdn.net/share/i/12/12426765/wr-960.webp'
+    },
+    {
+        image:
+            'https://ichef.bbci.co.uk/news/640/cpsprodpb/53F3/production/_123419412_gettyimages-1238726462.jpg'
+    }
+];

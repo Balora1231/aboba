@@ -2,6 +2,7 @@ import Navbar from "./Componets/Nav/NavBar";
 import Donate from "./Componets/Nav/pages/Donate";
 import Home from "./Componets/Nav/pages/Main";
 import About from "./Componets/Nav/pages/About";
+import './App.css'
 import { Route, Routes } from "react-router-dom"
 
 function App() {

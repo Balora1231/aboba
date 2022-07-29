@@ -1,3 +1,7 @@
+import ImageSlider from "./slider/SliderImage";
+import { SliderData } from './slider/SliderData';
 export default function Main() {
-    return <h1>Main</h1>
+    return (
+        <ImageSlider slides={SliderData} />
+    )
 }
